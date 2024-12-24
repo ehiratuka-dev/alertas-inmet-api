@@ -1,0 +1,27 @@
+# Ignora pastas de ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Ignora arquivos de bytecode
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora configurações de IDEs
+.vscode/
+.idea/
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos temporários
+*.bak
+*.swp
+*.swo
+
+# Ignora arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
