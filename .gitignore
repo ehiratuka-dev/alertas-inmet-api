@@ -25,3 +25,6 @@ __pycache__/
 # Ignora arquivos específicos do sistema operacional
 .DS_Store
 Thumbs.db
+
+# Ignora a pasta dist
+dist/
