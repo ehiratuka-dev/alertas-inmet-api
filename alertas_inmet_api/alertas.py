@@ -2,7 +2,7 @@
 Módulo da classe Alertas da API de Alertas Meteorológicos do INMET
 """
 
-from alertas_inmet_api import Alerta
+from .alerta import Alerta
 
 
 class Alertas:
